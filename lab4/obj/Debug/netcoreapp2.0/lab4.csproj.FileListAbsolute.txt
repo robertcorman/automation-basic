@@ -1,0 +1,10 @@
+D:\auto-repo\automation-basic\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+D:\auto-repo\automation-basic\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+D:\auto-repo\automation-basic\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+D:\auto-repo\automation-basic\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+D:\auto-repo\automation-basic\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+D:\auto-repo\automation-basic\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+D:\auto-repo\automation-basic\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+D:\auto-repo\automation-basic\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+D:\auto-repo\automation-basic\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+D:\auto-repo\automation-basic\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
