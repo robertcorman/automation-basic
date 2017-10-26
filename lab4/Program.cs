@@ -6,7 +6,7 @@ namespace lab4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Robert!");
+            Console.WriteLine("Robert Edited!");
         }
     }
 }
